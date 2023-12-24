@@ -23,20 +23,12 @@ body {
     border-radius: 10px ;
 }
 
-/* padding: 25px 35px;  = Kutunun içine biraz boşluk eklemek için. */
-
-/*position:absolute; özelliği olan bir eleman en yakın pozisyon değeri relative olan elemana göre kendini konumlandırır.
-
-/* transform: translate(-50% , -50%); = Sayfanın tam ortasına konumlandırdı.*/
-
 .container p {
 
     font-weight: 600;
     font-size: 15px;
     margin-bottom: 8px;
 }
-
-/* margin-bottom : Aşağıdan boşluk bırakır. margin-right : Sağdan boşluk bırakır. */
 
 .container input {
 
@@ -48,8 +40,6 @@ body {
     margin: 10px 0 20px;
     border-radius: 5px;
 }
-
-/* CSS'de "outline" özelliği, etiketin "öne çıkmasını" sağlamak için, etiketin sınırları dışında çizilen bir çizgidir. */
 
 .container button {
 
@@ -66,8 +56,6 @@ body {
     font-weight: 500;
 }
 
-/* css cursor özelliği mouse işaretçisinin stilini belirlemek için kullanılır. Örneğin buton üzerine geldiğinde bir el işaretini alması gibi. Varsayılan değeri auto değeridir. Varsayılan değer iken input elementlerinde text olur. */
-
 #imgBox {
 
     width: 200px;
@@ -77,7 +65,7 @@ body {
     transition: max-height 1s;
 }
 
-/* overflow =  kutu sınırları dışına taşan alanları gizle.*/
+
 
 #imgBox img {
     width: 100%;
