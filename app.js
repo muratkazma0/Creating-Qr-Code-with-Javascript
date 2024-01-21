@@ -1,6 +1,6 @@
-        const  imgBox = document.getElementById('imgBox');
-        const  qrImage = document.getElementById('qrImage');
-        const  qrText = document.getElementById('qrText');
+const  imgBox = document.getElementById('imgBox');
+const  qrImage = document.getElementById('qrImage');
+const  qrText = document.getElementById('qrText');
 
 function generate_QR() {
 
